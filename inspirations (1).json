@@ -1,46 +1,42 @@
-{
-  src:"https://i.imgur.com/KQhhfxJ.png",
-  title: "The new dragonborn scorcerer",
-  username:"Michael"
-};
-
-{
-  src:"https://i.imgur.com/U5m6jaz.png",
-  title: "Flying islands map",
-  username:"Anna"
-};
-
-{
-  src:"https://i.imgur.com/GZe0qnA.png",
-  title: "Meet my new character - Thoughts?",
-  username:"Mona"
-};
-
-{
-  src:"https://i.imgur.com/1aHV7in.png",
-  title: "Color Palettes for Fantasy Worlds",
-  username:"Rana"
-};
-
-{
-  src:"https://i.imgur.com/KOY6Dg1.png",
-  title: "Developing My Character’s Journey",
-  username:"Jake"
-};
-
-{
-  src:"https://i.imgur.com/i1E9iRR.png",
-  title: "Ancient Cultures Inspiring My World-Building",
-  username:"Steward"
-};
-
-{
-  src:"https://i.imgur.com/1UIjsRl.png",
-  title: "Luma the Foxfolk Rogue with a Heart of Gold",
-  username:"Delailah"
-};
-{
-  src:"https://i.imgur.com/1Y2nHCD.png",
-  title: "Map Reveal: The Hidden Groves of Eldoria",
-  username:"Jeremy"
-};
+[
+  {
+    "src": "https://i.imgur.com/KQhhfxJ.png",
+    "title": "The new dragonborn sorcerer",
+    "username": "Michael"
+  },
+  {
+    "src": "https://i.imgur.com/U5m6jaz.png",
+    "title": "Flying islands map",
+    "username": "Anna"
+  },
+  {
+    "src": "https://i.imgur.com/GZe0qnA.png",
+    "title": "Meet my new character - Thoughts?",
+    "username": "Mona"
+  },
+  {
+    "src": "https://i.imgur.com/1aHV7in.png",
+    "title": "Color Palettes for Fantasy Worlds",
+    "username": "Rana"
+  },
+  {
+    "src": "https://i.imgur.com/KOY6Dg1.png",
+    "title": "Developing My Character’s Journey",
+    "username": "Jake"
+  },
+  {
+    "src": "https://i.imgur.com/i1E9iRR.png",
+    "title": "Ancient Cultures Inspiring My World-Building",
+    "username": "Steward"
+  },
+  {
+    "src": "https://i.imgur.com/1UIjsRl.png",
+    "title": "Luma the Foxfolk Rogue with a Heart of Gold",
+    "username": "Delailah"
+  },
+  {
+    "src": "https://i.imgur.com/1Y2nHCD.png",
+    "title": "Map Reveal: The Hidden Groves of Eldoria",
+    "username": "Jeremy"
+  }
+]
